@@ -2,7 +2,7 @@
 
 Nesse repositório, você encontrará o meu material completo sobre meus estudos e exercícios na linguagem Python.
 
--> Repositório utilizado para fim de uso acadêmico.
+- Repositório utilizado para fim de uso acadêmico.
 
 Tecnologias utilizadas nesse campo:
   - Python
